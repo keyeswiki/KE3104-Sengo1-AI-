@@ -2,7 +2,7 @@
 #include <Sentry.h>   // Sentry机器视觉传感器库
 
 // 为Sengo2类型创建别名"Sengo"，简化后续使用
-typedef Sengo2 Sengo;
+typedef Sengo1 Sengo;
 
 // 定义通信方式（当前启用I2C）
 #define SENGO_I2C
